@@ -1,0 +1,53 @@
+{
+  "classes": [
+    "Cricket Bat",
+    "Cricket Ball",
+    "Football",
+    "Basketball",
+    "Volleyball",
+    "Tennis Racket",
+    "Badminton Racket",
+    "Shuttlecock",
+    "Hockey Stick",
+    "Baseball Bat",
+    "Baseball Glove",
+    "Goalkeeper Gloves",
+    "Helmet",
+    "Golf Club",
+    "Sports Shoes"
+  ],
+  "class_to_idx": {
+    "Cricket Bat": 0,
+    "Cricket Ball": 1,
+    "Football": 2,
+    "Basketball": 3,
+    "Volleyball": 4,
+    "Tennis Racket": 5,
+    "Badminton Racket": 6,
+    "Shuttlecock": 7,
+    "Hockey Stick": 8,
+    "Baseball Bat": 9,
+    "Baseball Glove": 10,
+    "Goalkeeper Gloves": 11,
+    "Helmet": 12,
+    "Golf Club": 13,
+    "Sports Shoes": 14
+  },
+  "idx_to_class": {
+    "0": "Cricket Bat",
+    "1": "Cricket Ball",
+    "2": "Football",
+    "3": "Basketball",
+    "4": "Volleyball",
+    "5": "Tennis Racket",
+    "6": "Badminton Racket",
+    "7": "Shuttlecock",
+    "8": "Hockey Stick",
+    "9": "Baseball Bat",
+    "10": "Baseball Glove",
+    "11": "Goalkeeper Gloves",
+    "12": "Helmet",
+    "13": "Golf Club",
+    "14": "Sports Shoes"
+  }
+}
